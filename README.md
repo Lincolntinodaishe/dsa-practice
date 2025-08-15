@@ -18,3 +18,15 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 ✅ Easy: (TO BE UPDATED)  
 ✅ Medium: (TO BE UPDATED) 
 ✅ Hard: (TO BE UPDATED)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
