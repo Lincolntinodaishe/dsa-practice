@@ -26,6 +26,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | ------- |
 | [0001-two-sum](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,4 +36,8 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0217-contains-duplicate) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
