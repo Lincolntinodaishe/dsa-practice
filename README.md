@@ -27,6 +27,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0001-two-sum](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0347-top-k-frequent-elements) |
@@ -99,9 +100,14 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0155-min-stack) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0155-min-stack) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
