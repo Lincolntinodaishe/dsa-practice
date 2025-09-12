@@ -81,6 +81,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0020-valid-parentheses](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
@@ -97,6 +98,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0567-permutation-in-string) |
 ## Stack
 |  |
