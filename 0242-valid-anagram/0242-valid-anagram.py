@@ -1,17 +1,20 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
+        # if the lengths of the strings are different , anagram is false
         if len(s) != len(t):
             return False
-        dic1 = {}
-        dic2 = {}
+        # best storage with an o(1) look
+        dict1 ={}
+        dict2= {}
+        # into the dictionaries
         for i in s:
-            dic1[i]=dic1.get(i, 0) +1
-        for e in t:
-            dic2[e]=dic2.get(e, 0)+1
-        for key in dic1:
-            if dic1[key] != dic2.get(key, 0):
-                return False
+            dict1[i] = dict1.get(i, 0)+1
+        for j in t:
+            dict2[j] = dict2.get(j, 0)+1
+        #Compare the dictionaries
+        if dict1 != dict2:
+            return False
         return True
-                
-                
+                  
+  
            
