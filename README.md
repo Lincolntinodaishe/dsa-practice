@@ -89,6 +89,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0383-ransom-note) |
@@ -111,6 +112,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0567-permutation-in-string) |
 ## Stack
