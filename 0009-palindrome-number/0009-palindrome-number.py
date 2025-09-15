@@ -1,5 +1,6 @@
 class Solution:
     def isPalindrome(self, x: int) -> bool:
+        # convert the interger to a string and iterate through each and every value  in the str and compare
         x = str(x)
         l = 0
         r = len(x)-1
