@@ -96,6 +96,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0424-longest-repeating-character-replacement](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0567-permutation-in-string) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -145,4 +146,8 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1013-fibonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
 <!---LeetCode Topics End-->
