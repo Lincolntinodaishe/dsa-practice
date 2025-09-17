@@ -27,6 +27,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0001-two-sum](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0169-majority-element) |
@@ -53,6 +54,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0217-contains-duplicate) |
