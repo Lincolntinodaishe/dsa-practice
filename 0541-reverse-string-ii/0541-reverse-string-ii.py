@@ -1,6 +1,7 @@
 class Solution:
     def reverseStr(self, s: str, k: int) -> str:
         # since arrays are not immutable we want to create a list of the chars
+        # make it mutable
         res = []
         # now we loop at intervals that are 2*k long
         # for eg 1 this is from a to d
