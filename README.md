@@ -30,6 +30,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0053-maximum-subarray](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0134-gas-station](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0179-largest-number) |
@@ -179,6 +180,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0179-largest-number) |
 ## Randomized
 |  |
