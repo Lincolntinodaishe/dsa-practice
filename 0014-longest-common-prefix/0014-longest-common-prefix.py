@@ -4,8 +4,6 @@ class Solution:
         l = strs[0] # first word
         r = strs[-1] # last word
         res = ''
-        if strs == ['']:
-            return res
         for i in range(min(len(strs[0]), len(strs[-1]))): # TRAVESE THROUGH THE LENGTH OF THE SHORTEST WORD
             if l[i] != r[i]:
                 return res
