@@ -192,4 +192,8 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0014-longest-common-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
