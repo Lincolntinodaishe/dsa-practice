@@ -1,19 +1,20 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        pairs ={
-            ')':'(',
-            '}':'{',
-            ']':'['
-        }
+        dict1 = {')': "(",
+                '}' :'{',
+                "]" : '['  }
         stack = []
-        for char in s:
-            if char in '({[':
-                stack.append(char)
-            if char in')]}':
-                if not stack or stack[-1] != pairs[char]:
+        for i in s: # ON
+            if i in '({[':
+                stack.append(i)
+            if  i in ')}]':
+                if not stack or stack[-1] != dict1[i]:
                     return False
-                stack.pop()
+                else: stack.pop()
         return not stack
+      
+          
 
-        # (not stack)simply means empty stack and retuens bool true if it is empty
-        
+
+
+          
