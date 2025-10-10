@@ -38,6 +38,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0215-kth-largest-element-in-an-array](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0739-daily-temperatures](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0739-daily-temperatures) |
@@ -136,6 +137,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0567-permutation-in-string) |
