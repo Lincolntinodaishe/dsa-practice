@@ -1,5 +1,8 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
+        # # Brute Force
+        # return sorted(s) == sorted(t)
+
         # if the lengths of the strings are different , anagram is false
         if len(s) != len(t):
             return False
