@@ -27,6 +27,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0001-two-sum](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0056-merge-intervals) |
@@ -138,6 +139,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0344-reverse-string) |
