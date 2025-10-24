@@ -3,9 +3,11 @@ class Solution:
         # you have to convert the numbers to a string then add them like you are adding on paper
         carry =0
         fin = []
-        noo = ""
-        for i in num:
-            noo += str(i)
+        # noo = ""
+        # for i in num:
+        #     noo += str(i)
+
+        noo = ''.join(str(i) for i in num)
         k = str(k)
         i = len(noo)-1
         j = len(k)-1
