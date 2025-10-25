@@ -45,6 +45,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0739-daily-temperatures](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0739-daily-temperatures) |
 | [1031-add-to-array-form-of-integer](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1031-add-to-array-form-of-integer) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Hash Table
 |  |
 | ------- |
@@ -234,4 +235,8 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0206-reverse-linked-list](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0908-middle-of-the-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2519-find-the-original-array-of-prefix-xor) |
 <!---LeetCode Topics End-->
