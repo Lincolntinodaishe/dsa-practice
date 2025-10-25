@@ -45,6 +45,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0739-daily-temperatures](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0739-daily-temperatures) |
 | [1031-add-to-array-form-of-integer](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1031-add-to-array-form-of-integer) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2358-number-of-ways-to-split-array](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2358-number-of-ways-to-split-array) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Hash Table
 |  |
@@ -81,6 +82,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0238-product-of-array-except-self) |
+| [2358-number-of-ways-to-split-array](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2358-number-of-ways-to-split-array) |
 ## Divide and Conquer
 |  |
 | ------- |
