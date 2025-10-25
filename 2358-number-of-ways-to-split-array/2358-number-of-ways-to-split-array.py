@@ -4,8 +4,8 @@ class Solution:
         prev = 0
         count = 0
 
-        for i in nums[:len(nums)-1]: #we dont want to include the last right element 
-            prev += i
+        for i in range(len(nums)-1): #we dont want to include the last right element 
+            prev += nums[i]
             if prev >= total - prev:
                 count +=1
         return count
