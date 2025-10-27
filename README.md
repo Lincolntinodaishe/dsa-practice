@@ -186,6 +186,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0002-add-two-numbers](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0412-fizz-buzz) |
@@ -241,4 +242,8 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 |  |
 | ------- |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2519-find-the-original-array-of-prefix-xor) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
