@@ -25,6 +25,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0027-remove-element) |
@@ -155,6 +156,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0125-valid-palindrome) |
@@ -221,6 +223,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0409-longest-palindrome) |
