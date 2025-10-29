@@ -46,6 +46,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0380-insert-delete-getrandom-o1](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0739-daily-temperatures](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0739-daily-temperatures) |
 | [1031-add-to-array-form-of-integer](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1031-add-to-array-form-of-integer) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2358-number-of-ways-to-split-array](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2358-number-of-ways-to-split-array) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -67,6 +68,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0424-longest-repeating-character-replacement](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0567-permutation-in-string) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Sorting
 |  |
@@ -107,6 +109,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0169-majority-element](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0383-ransom-note) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 ## Quickselect
 |  |
 | ------- |
@@ -135,6 +138,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0541-reverse-string-ii](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0567-permutation-in-string) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
