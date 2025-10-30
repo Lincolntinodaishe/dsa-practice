@@ -70,6 +70,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0567-permutation-in-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0567-permutation-in-string) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2372-rearrange-characters-to-make-target-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2372-rearrange-characters-to-make-target-string) |
 ## Sorting
 |  |
 | ------- |
@@ -110,6 +111,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0347-top-k-frequent-elements](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0383-ransom-note) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [2372-rearrange-characters-to-make-target-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2372-rearrange-characters-to-make-target-string) |
 ## Quickselect
 |  |
 | ------- |
@@ -143,6 +145,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2372-rearrange-characters-to-make-target-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2372-rearrange-characters-to-make-target-string) |
 ## Dynamic Programming
 |  |
 | ------- |
