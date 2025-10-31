@@ -46,6 +46,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0347-top-k-frequent-elements](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0739-daily-temperatures](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0792-binary-search) |
 | [1031-add-to-array-form-of-integer](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1031-add-to-array-form-of-integer) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -267,6 +268,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | ------- |
 | [0069-sqrtx](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0792-binary-search](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0792-binary-search) |
 ## Matrix
 |  |
 | ------- |
