@@ -10,7 +10,19 @@ class Solution:
         # brute force will be to check each and every combinatiob using for loops
         # then check if palindrome, compare lenght and return the substr
         # but time complexity O(n^2)
-
+        # n = len(s)
+        # longest = ""
+    
+        # for i in range(n):
+        #     for j in range(i, n):
+        #         substr = s[i:j+1]
+        #     # Check if substring is palindrome
+        #         if substr == substr[::-1]:
+        #         # Update longest if needed
+        #             if len(substr) > len(longest):
+        #                 longest = substr
+        # return longest
+        #optimal 
         res = ''
         res_len = 0
         # when the len of s id odd
