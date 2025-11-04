@@ -1,22 +1,20 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        #Brute 
-        res = 0
+        #bRUTE
+        # O(n2) time complexity looping twice in one array
+        max_profit = 0
         # for i in range(len(prices)):
-        #     for j in range(i, len(prices)):
-        #         profit = prices[j] - prices[i]
-        #         res = max(profit, res)
-        # return res
-        n= len(prices)
+        #     for j in range(i+1, len(prices)):
+        #         profit = prices[j]-prices[i]
+        #         if profit > max_profit:
+        #             max_profit = profit
+        # return max_profit
         l = 0
         r = 1
-        while r<n and l<r:
-            if prices[r]> prices[l]:
-               profit = prices[r] - prices[l]
-               res = max(res, profit)
-            else:
-                l = r
-            r+=1
-        return res
-        # optimal
-             
+        while r < len(prices):
+            if prices[r] > prices[l]:
+                profit = prices[r] - prices[l]
+                max_profit = max(profit, max_profit)
+            else: l = r
+            r += 1
+        return max_profit
