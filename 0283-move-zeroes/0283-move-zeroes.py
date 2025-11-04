@@ -2,15 +2,15 @@ class Solution:
     def moveZeroes(self, nums: List[int]) -> None:
         """
         Do not return anything, modify nums in-place instead.
-
         """
-        # Use the one liner python swap
-        k =0
+        l= 0
         for i in range(len(nums)):
-            if nums[i] != 0:
-                nums[k], nums[i] = nums[i], nums[k]
-                k += 1
+            if nums[i]!= 0 and nums[l] == 0:
+                nums[i], nums[l] = nums[l], nums[i]
+                l+=1
+            else:
+                continue
+                
         return nums
-        
 
         
