@@ -1,7 +1,14 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        Ndic = {}
+        dict1 = {}
+        n = len(nums)
         for i in nums:
-            Ndic[i] = Ndic.get(i, 0)+1
-            if Ndic[i] > len(nums)/2:
-                return i
+            dict1[i] = dict1.get(i, 0)+1
+        for key, value in dict1.items():
+            if dict1[key] > n/2:
+                return key
+            else :
+                continue
+        
+        
+        
