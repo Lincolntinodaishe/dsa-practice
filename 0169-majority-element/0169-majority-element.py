@@ -1,5 +1,6 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
+        '''
         dict1 = {}
         n = len(nums)
         for i in nums:
@@ -9,6 +10,18 @@ class Solution:
                 return key
             else :
                 continue
-        
+        '''
+        #space O(1)
+        count = 0
+        char = 0
+        for i in nums:
+            if count == 0:
+                char = i
+                count += 1
+            elif i != char:
+                count -=1
+            else:
+                count += 1
+        return char
         
         
