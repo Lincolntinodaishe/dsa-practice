@@ -213,6 +213,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0415-add-strings](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1031-add-to-array-form-of-integer) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2383-add-two-integers](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2383-add-two-integers) |
 ## Monotonic Stack
 |  |
@@ -260,6 +261,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0206-reverse-linked-list](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0908-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
