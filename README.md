@@ -46,6 +46,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0283-move-zeroes](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0380-insert-delete-getrandom-o1) |
+| [0682-baseball-game](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0792-binary-search) |
 | [1031-add-to-array-form-of-integer](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1031-add-to-array-form-of-integer) |
@@ -189,6 +190,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0020-valid-parentheses](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0155-min-stack) |
+| [0682-baseball-game](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0739-daily-temperatures) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -236,6 +238,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | ------- |
 | [0412-fizz-buzz](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0682-baseball-game) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Greedy
 |  |
