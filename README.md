@@ -173,6 +173,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0125-valid-palindrome) |
@@ -259,6 +260,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0206-reverse-linked-list) |
