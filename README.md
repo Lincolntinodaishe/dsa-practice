@@ -185,6 +185,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0557-reverse-words-in-a-string-iii](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0908-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -267,6 +268,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0237-delete-node-in-a-linked-list](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0908-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
