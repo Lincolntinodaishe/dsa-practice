@@ -14,3 +14,6 @@ class Solution:
         self.invertTree(root.right)
 
         return root
+
+        #space O(h) - using recursive call stacks
+        # time O(n) - n is th enumber of nodes
