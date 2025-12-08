@@ -154,6 +154,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [3136-valid-word](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/3136-valid-word) |
+| [3340-check-balanced-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/3340-check-balanced-string) |
 ## Dynamic Programming
 |  |
 | ------- |
