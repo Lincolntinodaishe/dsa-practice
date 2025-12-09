@@ -55,6 +55,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2358-number-of-ways-to-split-array](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2358-number-of-ways-to-split-array) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/3074-apple-redistribution-into-boxes) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,6 +91,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0242-valid-anagram](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/3074-apple-redistribution-into-boxes) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -252,6 +254,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0134-gas-station](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0409-longest-palindrome) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/3074-apple-redistribution-into-boxes) |
 ## Randomized
 |  |
 | ------- |
