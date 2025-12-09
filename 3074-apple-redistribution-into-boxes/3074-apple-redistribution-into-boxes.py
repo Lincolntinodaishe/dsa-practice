@@ -2,14 +2,13 @@ class Solution:
     def minimumBoxes(self, apple: List[int], capacity: List[int]) -> int:
         total = sum(apple)
         capacity.sort(reverse=True)
-        nums= 0
-        count = 0
+        
 
-        for i in capacity:
-            nums += i
-            count += 1
-            if total <= nums:
-                return count
+        for i, item in enumerate(capacity):
+            if total > 0:
+                total -= item
+            else: return i
+        return i+1
             
 
 
