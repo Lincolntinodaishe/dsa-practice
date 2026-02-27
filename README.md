@@ -34,6 +34,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0049-group-anagrams](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0134-gas-station) |
@@ -216,6 +217,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0029-divide-two-integers](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0380-insert-delete-getrandom-o1) |
