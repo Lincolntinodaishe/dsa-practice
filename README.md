@@ -137,6 +137,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0013-roman-to-integer](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0151-reverse-words-in-a-string) |
@@ -183,6 +184,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0151-reverse-words-in-a-string) |
@@ -319,4 +321,8 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0104-maximum-depth-of-binary-tree](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0543-diameter-of-binary-tree) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
