@@ -140,6 +140,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0179-largest-number) |
@@ -221,6 +222,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0048-rotate-image](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0380-insert-delete-getrandom-o1) |
@@ -249,6 +251,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0682-baseball-game) |
@@ -285,6 +288,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0067-add-binary) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Binary Search
 |  |
