@@ -76,6 +76,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0347-top-k-frequent-elements](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -129,6 +130,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0169-majority-element](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1297-maximum-number-of-balloons) |
 | [2351-first-letter-to-appear-twice](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2351-first-letter-to-appear-twice) |
@@ -157,6 +159,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0242-valid-anagram](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0415-add-strings) |
@@ -348,4 +351,8 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
