@@ -85,6 +85,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [1297-maximum-number-of-balloons](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1297-maximum-number-of-balloons) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2103-rings-and-rods](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2103-rings-and-rods) |
+| [2351-first-letter-to-appear-twice](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2351-first-letter-to-appear-twice) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2372-rearrange-characters-to-make-target-string) |
 ## Sorting
 |  |
@@ -130,6 +131,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0383-ransom-note](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0383-ransom-note) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1297-maximum-number-of-balloons) |
+| [2351-first-letter-to-appear-twice](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2351-first-letter-to-appear-twice) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2372-rearrange-characters-to-make-target-string) |
 ## Quickselect
 |  |
@@ -171,6 +173,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2103-rings-and-rods](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2103-rings-and-rods) |
 | [2278-percentage-of-letter-in-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2278-percentage-of-letter-in-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2351-first-letter-to-appear-twice) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [3136-valid-word](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/3136-valid-word) |
 | [3340-check-balanced-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/3340-check-balanced-string) |
@@ -302,6 +305,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | ------- |
 | [0029-divide-two-integers](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0067-add-binary) |
+| [2351-first-letter-to-appear-twice](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2351-first-letter-to-appear-twice) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Binary Search
 |  |
