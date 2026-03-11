@@ -59,6 +59,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [1207-unique-number-of-occurrences](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1207-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2358-number-of-ways-to-split-array](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-number-of-distinct-averages](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2465-number-of-distinct-averages) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/3074-apple-redistribution-into-boxes) |
@@ -90,6 +91,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [2103-rings-and-rods](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2103-rings-and-rods) |
 | [2351-first-letter-to-appear-twice](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2351-first-letter-to-appear-twice) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2372-rearrange-characters-to-make-target-string) |
+| [2465-number-of-distinct-averages](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2465-number-of-distinct-averages) |
 ## Sorting
 |  |
 | ------- |
@@ -105,6 +107,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0347-top-k-frequent-elements](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0451-sort-characters-by-frequency) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2465-number-of-distinct-averages](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2465-number-of-distinct-averages) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/3074-apple-redistribution-into-boxes) |
 ## Prefix Sum
@@ -224,6 +227,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0567-permutation-in-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0908-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2465-number-of-distinct-averages](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2465-number-of-distinct-averages) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Stack
 |  |
