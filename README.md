@@ -171,6 +171,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0205-isomorphic-strings](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0409-longest-palindrome) |
@@ -225,6 +226,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0567-permutation-in-string) |
