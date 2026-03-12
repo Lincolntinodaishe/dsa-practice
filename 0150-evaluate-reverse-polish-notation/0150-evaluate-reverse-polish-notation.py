@@ -1,6 +1,30 @@
 class Solution:
     def evalRPN(self, tokens: List[str]) -> int:
         import operator
+        d = {
+            '+': operator.add,
+            '-': operator.sub,
+            '*': operator.mul,
+            '/': operator.truediv
+         }
+        stack = []
+        for token in tokens:
+            if token in "+-*/":
+                if token == '/':
+                    val = int(stack[-2]/stack[-1])
+                else:
+                    val = d[token](stack[-2], stack[-1])
+                stack.pop()
+                stack.pop()
+                stack.append(val)
+            else:
+                stack.append(int(token))
+        return stack[0]
+        
+'''
+class Solution:
+    def evalRPN(self, tokens: List[str]) -> int:
+        import operator
         stack = []
         operators = {
     '+': operator.add,
@@ -34,3 +58,7 @@ class Solution:
 #But sometimes people do floor division with //:
 
 -7 // 3      # -3 ❌
+'''
+        
+
+        
