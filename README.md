@@ -80,6 +80,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0380-insert-delete-getrandom-o1](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -107,6 +108,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0217-contains-duplicate](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0451-sort-characters-by-frequency) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -174,6 +176,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0345-reverse-vowels-of-a-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0415-add-strings) |
@@ -327,6 +330,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | ------- |
 | [0029-divide-two-integers](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0067-add-binary) |
+| [0389-find-the-difference](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0389-find-the-difference) |
 | [2351-first-letter-to-appear-twice](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2351-first-letter-to-appear-twice) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Binary Search
