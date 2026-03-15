@@ -190,6 +190,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0557-reverse-words-in-a-string-iii](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0567-permutation-in-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1297-maximum-number-of-balloons) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -252,6 +253,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0739-daily-temperatures](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0853-car-fleet) |
 | [1021-remove-outermost-parentheses](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Design
