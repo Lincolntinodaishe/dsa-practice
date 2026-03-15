@@ -54,6 +54,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0682-baseball-game](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0792-binary-search) |
+| [0853-car-fleet](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0853-car-fleet) |
 | [1031-add-to-array-form-of-integer](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1031-add-to-array-form-of-integer) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1207-unique-number-of-occurrences) |
@@ -110,6 +111,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0347-top-k-frequent-elements](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0451-sort-characters-by-frequency) |
+| [0853-car-fleet](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0853-car-fleet) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2465-number-of-distinct-averages) |
@@ -247,6 +249,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0155-min-stack](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0853-car-fleet) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Design
@@ -278,6 +281,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0853-car-fleet) |
 ## Recursion
 |  |
 | ------- |
