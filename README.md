@@ -60,6 +60,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [1207-unique-number-of-occurrences](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1207-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2073-time-needed-to-buy-tickets) |
 | [2358-number-of-ways-to-split-array](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2358-number-of-ways-to-split-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2465-number-of-distinct-averages) |
@@ -310,6 +311,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0415-add-strings](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0682-baseball-game) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2073-time-needed-to-buy-tickets) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Greedy
 |  |
@@ -394,4 +396,5 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
