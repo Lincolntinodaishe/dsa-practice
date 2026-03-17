@@ -195,6 +195,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [1297-maximum-number-of-balloons](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1297-maximum-number-of-balloons) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1544-make-the-string-great](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1544-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2103-rings-and-rods](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2103-rings-and-rods) |
@@ -255,6 +256,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [1021-remove-outermost-parentheses](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1544-make-the-string-great](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1544-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
