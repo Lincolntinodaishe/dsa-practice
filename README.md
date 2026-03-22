@@ -52,6 +52,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0283-move-zeroes](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0380-insert-delete-getrandom-o1) |
+| [0594-longest-harmonious-subsequence](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0682-baseball-game](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0739-daily-temperatures) |
@@ -92,6 +93,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0438-find-all-anagrams-in-a-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1207-unique-number-of-occurrences) |
@@ -117,6 +119,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0347-top-k-frequent-elements](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0853-car-fleet](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0853-car-fleet) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -154,6 +157,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0383-ransom-note](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0594-longest-harmonious-subsequence) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1297-maximum-number-of-balloons) |
 | [2351-first-letter-to-appear-twice](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2351-first-letter-to-appear-twice) |
@@ -226,6 +230,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0424-longest-repeating-character-replacement](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0594-longest-harmonious-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
