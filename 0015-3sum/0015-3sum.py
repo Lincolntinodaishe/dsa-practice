@@ -16,7 +16,7 @@ class Solution:
                 else: 
                     lst.append([a, nums[l], nums[r]]) # add the correct value to the list
                     l += 1 # update l only since right wil updtae when tagrt is greater that 0
-                    while nums[l] == nums[l-1] and l<r: # to avoid repetition in the pointer
+                    while l<r and nums[l] == nums[l-1] : # to avoid repetition in the pointer
                         l+=1
         return lst 
 
