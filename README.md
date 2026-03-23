@@ -63,6 +63,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1207-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1652-defuse-the-bomb](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1652-defuse-the-bomb) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2073-time-needed-to-buy-tickets) |
 | [2358-number-of-ways-to-split-array](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2358-number-of-ways-to-split-array) |
@@ -233,6 +234,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0567-permutation-in-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0643-maximum-average-subarray-i) |
+| [1652-defuse-the-bomb](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1652-defuse-the-bomb) |
 ## Two Pointers
 |  |
 | ------- |
