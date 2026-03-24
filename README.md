@@ -65,6 +65,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1652-defuse-the-bomb](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1652-defuse-the-bomb) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2073-time-needed-to-buy-tickets) |
 | [2358-number-of-ways-to-split-array](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2358-number-of-ways-to-split-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -125,6 +126,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0594-longest-harmonious-subsequence](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0853-car-fleet](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0853-car-fleet) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2465-number-of-distinct-averages) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -239,6 +241,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0643-maximum-average-subarray-i](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0643-maximum-average-subarray-i) |
 | [1652-defuse-the-bomb](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Two Pointers
 |  |
 | ------- |
