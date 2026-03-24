@@ -1,5 +1,17 @@
 class Solution:
     def findRepeatedDnaSequences(self, s: str) -> List[str]:
+        #slicing method
+        seen, res = set(), set()
+        for i in range(len(s)-9):
+            sub = s[i:i+10]
+            if sub in seen:
+                res.add(sub)
+            else: seen.add(sub)
+        return list(res)
+
+        #sliding window
+
+        '''
         key = ''
         res = []
         d = {}
@@ -16,3 +28,4 @@ class Solution:
                 res.append(i)
         return res
         #slide a fixed window of len 10 and hash
+        '''
