@@ -217,6 +217,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2103-rings-and-rods](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2103-rings-and-rods) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2278-percentage-of-letter-in-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2278-percentage-of-letter-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2351-first-letter-to-appear-twice) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2372-rearrange-characters-to-make-target-string) |
@@ -242,6 +243,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [1652-defuse-the-bomb](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -307,6 +309,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [1013-fibonacci-number](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1031-add-to-array-form-of-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2383-add-two-integers](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2383-add-two-integers) |
 ## Monotonic Stack
 |  |
