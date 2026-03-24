@@ -101,6 +101,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [1207-unique-number-of-occurrences](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1207-unique-number-of-occurrences) |
 | [1297-maximum-number-of-balloons](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1297-maximum-number-of-balloons) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2103-rings-and-rods](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2103-rings-and-rods) |
 | [2351-first-letter-to-appear-twice](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2351-first-letter-to-appear-twice) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2372-rearrange-characters-to-make-target-string) |
@@ -162,6 +163,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0594-longest-harmonious-subsequence](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0594-longest-harmonious-subsequence) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1297-maximum-number-of-balloons) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2351-first-letter-to-appear-twice](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2351-first-letter-to-appear-twice) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2372-rearrange-characters-to-make-target-string) |
 ## Quickselect
@@ -210,6 +212,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1544-make-the-string-great](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1544-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2103-rings-and-rods](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2103-rings-and-rods) |
 | [2278-percentage-of-letter-in-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2278-percentage-of-letter-in-string) |
@@ -235,6 +238,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0594-longest-harmonious-subsequence](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0643-maximum-average-subarray-i) |
 | [1652-defuse-the-bomb](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1652-defuse-the-bomb) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Two Pointers
 |  |
 | ------- |
