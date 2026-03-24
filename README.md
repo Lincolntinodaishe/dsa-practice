@@ -82,6 +82,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0049-group-anagrams](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0219-contains-duplicate-ii) |
@@ -188,6 +189,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0125-valid-palindrome](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0344-reverse-string) |
@@ -234,6 +236,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -371,6 +374,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | ------- |
 | [0029-divide-two-integers](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0067-add-binary) |
+| [0187-repeated-dna-sequences](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0187-repeated-dna-sequences) |
 | [0389-find-the-difference](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0389-find-the-difference) |
 | [2351-first-letter-to-appear-twice](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2351-first-letter-to-appear-twice) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -422,4 +426,12 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0387-first-unique-character-in-a-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2073-time-needed-to-buy-tickets) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
