@@ -56,6 +56,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0792-binary-search) |
 | [0853-car-fleet](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0853-car-fleet) |
@@ -386,6 +387,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0074-search-a-2d-matrix](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0792-binary-search) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
