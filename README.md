@@ -52,6 +52,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0268-missing-number](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0594-longest-harmonious-subsequence](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -92,6 +93,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0242-valid-anagram](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0387-first-unique-character-in-a-string) |
@@ -127,6 +129,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0242-valid-anagram](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0594-longest-harmonious-subsequence) |
@@ -271,6 +274,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0283-move-zeroes](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0567-permutation-in-string) |
@@ -396,6 +400,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0792-binary-search) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
