@@ -49,6 +49,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0217-contains-duplicate](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0380-insert-delete-getrandom-o1) |
@@ -89,6 +90,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0217-contains-duplicate](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0383-ransom-note) |
@@ -123,6 +125,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0215-kth-largest-element-in-an-array](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0451-sort-characters-by-frequency) |
@@ -309,6 +312,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0067-add-binary](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0268-missing-number](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0415-add-strings) |
@@ -378,6 +382,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0029-divide-two-integers](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0067-add-binary) |
 | [0187-repeated-dna-sequences](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0187-repeated-dna-sequences) |
+| [0268-missing-number](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0389-find-the-difference) |
 | [2351-first-letter-to-appear-twice](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2351-first-letter-to-appear-twice) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -389,6 +394,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0074-search-a-2d-matrix](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0792-binary-search) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
