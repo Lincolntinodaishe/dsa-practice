@@ -406,6 +406,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0278-first-bad-version](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0792-binary-search) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -460,4 +461,5 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
