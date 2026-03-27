@@ -395,6 +395,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0792-binary-search) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -445,4 +446,8 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0187-repeated-dna-sequences) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
