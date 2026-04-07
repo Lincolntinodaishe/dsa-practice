@@ -66,6 +66,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0792-binary-search) |
 | [0853-car-fleet](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0853-car-fleet) |
+| [0875-koko-eating-bananas](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0875-koko-eating-bananas) |
 | [1031-add-to-array-form-of-integer](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1031-add-to-array-form-of-integer) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1207-unique-number-of-occurrences) |
@@ -417,6 +418,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0704-binary-search](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0875-koko-eating-bananas) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
