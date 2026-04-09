@@ -345,6 +345,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0002-add-two-numbers](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -385,6 +386,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0021-merge-two-sorted-lists](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0908-middle-of-the-linked-list) |
