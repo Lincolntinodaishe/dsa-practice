@@ -91,6 +91,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0049-group-anagrams](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0205-isomorphic-strings) |
@@ -279,6 +280,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0141-linked-list-cycle](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0283-move-zeroes) |
@@ -392,6 +394,7 @@ This repository contains my solutions to LeetCode and other DSA problems, organi
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Lincolntinodaishe/dsa-practice/tree/master/0234-palindrome-linked-list) |
